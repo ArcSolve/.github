@@ -13,4 +13,4 @@ AI moves fast, but much of the real world is still out of its reach. ArcSolve cl
 
 - [공식 웹사이트](https://arcsolve.ai/)
 - [X](https://x.com/arcsolve_ai) · [Threads](https://www.threads.com/@arcsolve_ai) · [Instagram](https://www.instagram.com/arcsolve_ai/)
-- 문의: [support@arcsolve.ai](mailto:support@arcsolve.ai)
+- 문의: [contact@arcsolve.ai](mailto:contact@arcsolve.ai)
